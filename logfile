@@ -1,0 +1,2 @@
+FATAL:  lock file "postmaster.pid" already exists
+HINT:  Is another postmaster (PID 1562) running in data directory "/Users/saikiran/postgres/data"?
